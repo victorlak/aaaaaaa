@@ -1,0 +1,39 @@
+.imgInicial{
+  background-color:  #222e35;
+  height:100vh;
+}
+.img{
+  display: flex;
+  justify-content: center;
+  width: 700px !important;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.letras{
+  color:#cac3ba;
+}
+.btn{
+  background-color:#11b086 !important;
+  color: #222e35;
+  border-radius: 20px !important;
+}
+.logo{
+  height: 70%;
+  margin-top: 15% !important;
+}
+.cadeado{
+  color: #cac3ba;
+}
+.textoBaixo{
+  margin-top: 100px !important;
+}
+.barraMsg{
+  width: 100%;
+  background-color: #202c33;
+  height: 59px;
+}
+.img-icones{
+  width: 210px;
+}
+.icons{
+  margin-left: 51px !important;
+}
